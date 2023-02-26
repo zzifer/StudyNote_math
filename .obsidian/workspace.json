@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "5d4b4272fdb73373",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5509f40e574ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4288cd68b3bd8e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概率/概率论与数理统计.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2231f5734f6c342",
+    "type": "split",
+    "children": [
+      {
+        "id": "542954673b408054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13a8d023ea757995",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d606542faf2d08ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88dfe9f65ba461fa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a1bb099ad2523c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e814329c2eeba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc30e5cefbc635c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "概率/概率论与数理统计.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa8783f8e54ef02e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "概率/概率论与数理统计.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29ffb2ca39b74fe1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d3c949373c8b185",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "概率/概率论与数理统计.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4288cd68b3bd8e40",
+  "lastOpenFiles": [
+    "概率/attachments/Pasted image 20230226201456.png",
+    "概率/attachments/Pasted image 20230226200541.png",
+    "attachments/Pasted image 20230226200420.png.md",
+    "概率/概率论与数理统计.md",
+    "attachments",
+    "概率",
+    "概率/attachments/Pasted image 20230226200420.png",
+    "概率/attachments"
+  ]
+}
